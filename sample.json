@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "australian-financial-review",
+                "name": "Australian Financial Review"
+            },
+            "author": "Karen Maley",
+            "title": "Elon Musk’s massive pay packet approval could be a lesson for business leaders",
+            "description": "Tesla’s shareholders still believe in the magic of their chief executive, but critics say  the bumper payday has warped some of the company’s decisions.",
+            "url": "http://www.afr.com/companies/financial-services/what-company-directors-should-learn-from-elon-musk-s-massive-payout-20240614-p5jlps",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.2119%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/a6465cc9ea9e99bf46b0df2cdbef814e467a2c27",
+            "publishedAt": "2024-06-14T01:34:08Z",
+            "content": "Elon Musk has scored a major victory, with Tesla investors reaffirming their decision to award their leader a record-setting, multibillion-dollar compensation package.\r\nThe vote at Teslas annual shar… [+203 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": null,
+            "title": "Tiff Macklem says things are going to be difficult if productivity doesn't grow",
+            "description": "Bank of Canada governor Tiff Macklem says businesses should be inspired what they showed during the pandemic to boost productivity. Read on.",
+            "url": "https://financialpost.com/news/economy/bank-canada-tiff-macklem-urges-businesses-innovate",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/06/0614-bc-macklem.jpg",
+            "publishedAt": "2024-06-13T14:07:18.7484175Z",
+            "content": "Bank of Canada governor Tiff Macklem says businesses should be inspired by the enormous amount of ingenuity they showed during the pandemic to boost the countrys declining productivity levels, but a … [+3155 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Mike Butcher",
+            "title": "Checkfirst raises $1.5M pre-seed, applying AI to remote inspections and audits | TechCrunch",
+            "description": "Checkfirst enables businesses to schedule inspectors based on geographical location and qualifications, in addition to allowing for remote inspections.",
+            "url": "https://techcrunch.com/2024/05/08/checkfirst-raises-1-5m-pre-seed-applying-ai-to-remote-inspections-and-audits/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/Checkfirst-team.jpg?w=960",
+            "publishedAt": "2024-05-08T13:02:12Z",
+            "content": "Weve all seen them. The inspector with a clipboard, walking around a building, ticking off the last time the fire extinguishers were checked, or if all the lights are working. They work in the TICC (… [+3279 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Alex Fitzpatrick, Kavya Beheraj",
+            "title": "The country's new business hot spots, mapped",
+            "description": "The Southeastern U.S. is a hotbed of new business activity.",
+            "url": "https://www.axios.com/2023/07/13/new-business-hot-spots",
+            "urlToImage": "https://images.axios.com/aDr8aF2q-EoHWlnE6VUNLPYxpRE=/0x0:1280x720/1366x768/2023/07/12/1689197791881.png",
+            "publishedAt": "2023-07-13T09:30:06Z",
+            "content": "The Southeastern U.S. is a hotbed of new business activity, home to nine of the top 10 major metro areas with the most new business applications per 1,000 residents last year.\r\nDriving the news: That… [+1716 chars]"
+        }
+    ]
+}
