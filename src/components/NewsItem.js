@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-//this is newsitem.js 
+ 
 export class NewsItem extends Component {
 
   render() {
