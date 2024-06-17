@@ -1,7 +1,10 @@
 //this is app.js
 //this is to test twice 
 //once again to test the pull without stash
+
 //this is to check stash bu changing locally 
+//to change the app.js and get using stash 
+
 import './App.css';
 
 import React, { useState } from 'react'
